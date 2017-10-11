@@ -12,7 +12,7 @@ Stable tag: 0.1
 
 == Description ==
 
-
+Referral system for Wordpress and Woocommerce
 
 == Installation ==
 
